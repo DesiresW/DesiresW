@@ -135,10 +135,3 @@ Programación y análisis de sistemas digitales con VHDL, Verilog, Assembly, PIC
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Miguel_Sánchez_Vargas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josemiguelsanchezvargas/)
 [![Email](https://img.shields.io/badge/Email-jossanchezva%40unal.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jossanchezva@unal.edu.co)
 
----
-
-## 📈 GitHub Stats
-
-![Jose Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DesiresW&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DesiresW&layout=compact&theme=github_dark&hide_border=true)
